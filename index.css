@@ -1,0 +1,12 @@
+.avatar {
+    width: 200px;
+    height: 234px;
+}
+.main {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.main-content {
+    width: 400px;
+}
