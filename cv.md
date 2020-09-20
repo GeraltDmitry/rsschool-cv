@@ -1,4 +1,4 @@
-# Grishin Dmitry Alekseevich
+# Grishin Dmitry
 
 Nizhny Novgorod, Russian Federation  
 **Date of Birth:** September 15, 1996  
